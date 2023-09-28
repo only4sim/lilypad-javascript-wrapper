@@ -66,6 +66,9 @@ For example, you can try to use the main.js.
 node main.js
 ```
 
+## Demo
+[Lilypad JavaScript Wrapper](https://youtu.be/M5XvawL6kKI)
+
 ## Support
 For issues with the Lilypad CLI, refer to the Lilypad documentation or reach out to the Lilypad community for support.
 
